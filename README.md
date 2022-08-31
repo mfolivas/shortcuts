@@ -1,5 +1,7 @@
 # shortcuts
 shortcuts and stuff
+
+```
 export DEV_HOME=~/development/stack
 alias goto_stack='cd ~/development/stack'
 alias goto_webapi='goto_stack && cd webapi'
@@ -191,3 +193,4 @@ if [ -f '/Users/marcelo/Downloads/google-cloud-sdk/path.bash.inc' ]; then . '/Us
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/marcelo/Downloads/google-cloud-sdk/completion.bash.inc' ]; then . '/Users/marcelo/Downloads/google-cloud-sdk/completion.bash.inc'; fi
+```
